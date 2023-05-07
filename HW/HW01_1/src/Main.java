@@ -2,7 +2,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        divide(5, 0);
+        System.out.println(divide(5, 0));
 
         int[] arr = {1, 2, 3, 4};
         indexOut(arr, 6);

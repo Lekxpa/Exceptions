@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36960467-706f-41f2-a0b3-8ea9d41128b4" name="Changes" comment="add HW01-04">
-      <change afterPath="$PROJECT_DIR$/HW/HW01_04/HW01_04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW01_4/HW01_4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW01_4/src/Main.java" afterDir="false" />
+    <list default="true" id="36960467-706f-41f2-a0b3-8ea9d41128b4" name="Changes" comment="changes files">
+      <change afterPath="$PROJECT_DIR$/HW/HW01_3/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -23,7 +21,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2PSUXAFhZ5L1qJPWTxFd1qjgc0a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,17 +37,16 @@
     "last_opened_file_path": "C:/Users/Asus/IdeaProjects/Exception_lections_seminars_HW"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main " type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW01_04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="HW01_4" />
+      <module name="HW01_04" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,10 +67,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main " />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -119,12 +118,27 @@
       <option name="project" value="LOCAL" />
       <updated>1683451451411</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes files">
+      <created>1683451526218</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683451526218</updated>
+    </task>
+    <task id="LOCAL-00007" summary="changes files">
+      <created>1683451576318</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683451576318</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes" />
     <MESSAGE value="add HW01-04" />
-    <option name="LAST_COMMIT_MESSAGE" value="add HW01-04" />
+    <MESSAGE value="changes files" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes files" />
   </component>
 </project>
