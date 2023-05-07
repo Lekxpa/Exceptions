@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exception_lections_seminars_HW.iml" filepath="$PROJECT_DIR$/Exception_lections_seminars_HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW01_1/HW01_1.iml" filepath="$PROJECT_DIR$/HW/HW01_1/HW01_1.iml" />
     </modules>
   </component>
 </project>
