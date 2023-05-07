@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Exception_lections_seminars_HW.iml" filepath="$PROJECT_DIR$/Exception_lections_seminars_HW.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW01_03/HW01_03.iml" filepath="$PROJECT_DIR$/HW/HW01_03/HW01_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW/HW01_04/HW01_04.iml" filepath="$PROJECT_DIR$/HW/HW01_04/HW01_04.iml" />
       <module fileurl="file://$PROJECT_DIR$/HW/HW01_1/HW01_1.iml" filepath="$PROJECT_DIR$/HW/HW01_1/HW01_1.iml" />
     </modules>
   </component>
